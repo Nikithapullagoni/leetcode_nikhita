@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
