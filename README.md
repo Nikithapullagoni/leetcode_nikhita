@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String
 |  |
