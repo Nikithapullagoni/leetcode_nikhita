@@ -35,6 +35,7 @@
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
+| [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
@@ -65,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 ## Sliding Window
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
