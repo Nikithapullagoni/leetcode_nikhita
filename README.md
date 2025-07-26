@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
@@ -42,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
