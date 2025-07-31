@@ -15,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
