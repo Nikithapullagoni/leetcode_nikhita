@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -82,6 +84,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
