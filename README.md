@@ -10,6 +10,7 @@
 | [0050-powx-n](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
