@@ -18,6 +18,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
@@ -40,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
