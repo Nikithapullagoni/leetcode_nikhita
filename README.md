@@ -53,6 +53,7 @@
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3791-fruits-into-baskets-iii) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3791-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
 | ------- |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
