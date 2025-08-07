@@ -42,6 +42,7 @@
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
@@ -176,9 +177,11 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
