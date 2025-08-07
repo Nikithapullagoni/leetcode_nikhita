@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
@@ -162,6 +163,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 ## Ordered Set
 |  |
