@@ -45,6 +45,7 @@
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
@@ -180,11 +181,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
