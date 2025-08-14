@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
@@ -43,6 +44,7 @@
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
@@ -184,4 +186,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
