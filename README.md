@@ -12,6 +12,7 @@
 | [0070-climbing-stairs](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -107,6 +109,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
