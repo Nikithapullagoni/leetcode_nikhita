@@ -26,6 +26,7 @@
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -197,10 +200,15 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
