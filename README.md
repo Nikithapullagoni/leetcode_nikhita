@@ -59,6 +59,7 @@
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
@@ -197,12 +198,14 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
