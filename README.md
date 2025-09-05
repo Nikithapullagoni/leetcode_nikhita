@@ -126,6 +126,7 @@
 | [0342-power-of-four](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
