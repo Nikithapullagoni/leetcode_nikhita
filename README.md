@@ -28,6 +28,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-fibonacci-number) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Recursion
@@ -209,6 +210,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Matrix
 |  |
 | ------- |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
