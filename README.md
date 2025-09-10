@@ -70,6 +70,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1917-maximum-average-pass-ratio) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -116,6 +117,7 @@
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1917-maximum-average-pass-ratio) |
 ## Monotonic Stack
 |  |
