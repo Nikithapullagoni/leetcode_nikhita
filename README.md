@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0041-first-missing-positive) |
@@ -198,6 +199,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 ## Ordered Set
@@ -232,6 +234,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
