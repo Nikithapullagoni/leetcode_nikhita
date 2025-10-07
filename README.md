@@ -73,6 +73,7 @@
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -122,6 +123,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
+| [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sliding Window
@@ -158,6 +160,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
@@ -196,6 +199,7 @@
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
+| [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
@@ -243,6 +247,7 @@
 | [0011-container-with-most-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1917-maximum-average-pass-ratio) |
 ## Monotonic Stack
