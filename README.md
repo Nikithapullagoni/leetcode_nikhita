@@ -78,6 +78,7 @@
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1917-maximum-average-pass-ratio) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -98,6 +99,7 @@
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Matrix
 |  |
