@@ -84,6 +84,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union Find
 |  |
@@ -202,6 +206,7 @@
 | [0794-swim-in-rising-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
