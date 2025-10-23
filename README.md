@@ -17,6 +17,7 @@
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -275,4 +278,12 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0794-swim-in-rising-water) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
