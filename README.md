@@ -80,6 +80,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -132,6 +133,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
 |  |
@@ -239,6 +242,7 @@
 | [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
