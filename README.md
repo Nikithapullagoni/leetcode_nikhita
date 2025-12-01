@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
@@ -143,6 +144,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2400-minimum-score-after-removals-on-a-tree) |
