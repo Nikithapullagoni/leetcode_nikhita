@@ -73,6 +73,7 @@
 | [0794-swim-in-rising-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0940-fruit-into-baskets) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1834-minimum-number-of-people-to-teach) |
