@@ -77,6 +77,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1813-maximum-erasure-value) |
@@ -246,6 +247,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -281,6 +283,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Queue
 |  |
