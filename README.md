@@ -68,6 +68,7 @@
 | [0152-maximum-product-subarray](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
@@ -211,6 +212,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0238-product-of-array-except-self) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
