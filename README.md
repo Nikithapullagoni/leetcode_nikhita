@@ -108,6 +108,7 @@
 | [0049-group-anagrams](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0345-reverse-vowels-of-a-string) |
 | [1023-time-based-key-value-store](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1023-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -236,6 +237,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1768-merge-strings-alternately) |
 ## Ordered Set
 |  |
