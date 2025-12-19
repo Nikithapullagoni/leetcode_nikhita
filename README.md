@@ -78,6 +78,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1628-count-submatrices-with-all-ones) |
