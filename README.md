@@ -71,6 +71,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0498-diagonal-traverse) |
+| [0605-can-place-flowers](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0682-baseball-game) |
 | [0794-swim-in-rising-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -276,6 +277,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/0605-can-place-flowers) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nikithapullagoni/leetcode_nikhita/tree/master/1612-avoid-flood-in-the-city) |
